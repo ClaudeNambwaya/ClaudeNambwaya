@@ -1,7 +1,8 @@
 ****Hello and welcome! My name is Claude 👋**** 
 
 ==============================
-
+Hi 👋 My name is Claude
+=============================
 ASP.NET Developer
 -------------
 
