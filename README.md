@@ -13,3 +13,5 @@
 -->
 
 [![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya)](https://github.com/ClaudeNambwaya/github-readme-stats)
+
+![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya&show_icons=true)
