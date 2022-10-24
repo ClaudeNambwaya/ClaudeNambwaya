@@ -1,7 +1,5 @@
 Hello and welcome! My name is Claude 👋
 =============================
-ASP.NET Developer
--------------
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🌱 I’m currently learning **.NET MicroServices**
