@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya)](https://github.com/ClaudeNambwaya/github-readme-stats)
 
 ![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeNambwaya&layout=compact)](https://github.com/ClaudeNambwaya/github-readme-stats)
