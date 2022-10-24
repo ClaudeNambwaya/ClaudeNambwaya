@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya&show_icons=true&theme=radical)
 
 ![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudeNambwaya&show_icons=true)
 
