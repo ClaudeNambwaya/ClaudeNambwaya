@@ -10,4 +10,3 @@ Hello and welcome! My name is Claude 👋
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeNambwaya&langs_count=8&theme=radical)](https://github.com/ClaudeNambwaya/github-readme-stats)
